@@ -1,0 +1,11 @@
+﻿id,name,genres,playtime_hours,has_coop,rating
+1,Stardew Valley,"Simulation, RPG",50,True,4.8
+2,Portal 2,"Puzzle, Platformer",12,True,4.9
+3,Cyberpunk 2077,"RPG, Action",60,False,4.2
+4,It Takes Two,"Adventure, Platformer",14,True,4.7
+5,The Witcher 3,"RPG, Adventure",100,False,4.9
+6,Among Us,"Party, Casual",10,True,4.0
+7,Hades,"Roguelike, Action",25,False,4.7
+8,Don't Starve Together,"Survival, Adventure",40,True,4.4
+9,Hollow Knight,"Metroidvania, Action",30,False,4.8
+10,Terraria,"Sandbox, Adventure",80,True,4.6
