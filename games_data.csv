@@ -1,11 +1,232 @@
-﻿id,name,genres,playtime_hours,has_coop,rating
-1,Stardew Valley,"Simulation, RPG",50,True,4.8
-2,Portal 2,"Puzzle, Platformer",12,True,4.9
-3,Cyberpunk 2077,"RPG, Action",60,False,4.2
-4,It Takes Two,"Adventure, Platformer",14,True,4.7
-5,The Witcher 3,"RPG, Adventure",100,False,4.9
-6,Among Us,"Party, Casual",10,True,4.0
-7,Hades,"Roguelike, Action",25,False,4.7
-8,Don't Starve Together,"Survival, Adventure",40,True,4.4
-9,Hollow Knight,"Metroidvania, Action",30,False,4.8
-10,Terraria,"Sandbox, Adventure",80,True,4.6
+ID: 220, Название: Half-Life 2, Часы: 0.0
+ID: 320, Название: Half-Life 2: Deathmatch, Часы: 0.0
+ID: 360, Название: Half-Life Deathmatch: Source, Часы: 0.0
+ID: 500, Название: Left 4 Dead, Часы: 15.9
+ID: 550, Название: Left 4 Dead 2, Часы: 3.0
+ID: 620, Название: Portal 2, Часы: 3.7
+ID: 730, Название: Counter-Strike 2, Часы: 921.6
+ID: 3590, Название: Plants vs. Zombies: Game of the Year, Часы: 0.0
+ID: 4000, Название: Garry's Mod, Часы: 5.2
+ID: 21690, Название: Resident Evil 5, Часы: 32.7
+ID: 43110, Название: Metro 2033, Часы: 1.7
+ID: 48000, Название: LIMBO, Часы: 3.2
+ID: 105600, Название: Terraria, Часы: 2.5
+ID: 107410, Название: Arma 3, Часы: 6.3
+ID: 108710, Название: Alan Wake, Часы: 4.8
+ID: 202750, Название: Alan Wake's American Nightmare, Часы: 0.0
+ID: 214340, Название: Deponia, Часы: 0.0
+ID: 218620, Название: PAYDAY 2, Часы: 20.9
+ID: 220700, Название: RPG Maker VX Ace, Часы: 0.0
+ID: 221040, Название: Resident Evil 6, Часы: 29.4
+ID: 222480, Название: Resident Evil Revelations, Часы: 5.7
+ID: 223710, Название: Cry of Fear, Часы: 0.6
+ID: 238320, Название: Outlast, Часы: 7.2
+ID: 242760, Название: The Forest, Часы: 14.5
+ID: 254700, Название: Resident Evil 4 (2005), Часы: 1.8
+ID: 261570, Название: Ori and the Blind Forest, Часы: 5.4
+ID: 268910, Название: Cuphead, Часы: 13.1
+ID: 271590, Название: Grand Theft Auto V Legacy, Часы: 0.0
+ID: 275850, Название: No Man's Sky, Часы: 13.6
+ID: 282140, Название: SOMA, Часы: 3.6
+ID: 286690, Название: Metro 2033 Redux, Часы: 0.0
+ID: 287290, Название: Resident Evil Revelations 2, Часы: 1.7
+ID: 304240, Название: Resident Evil, Часы: 1.6
+ID: 307780, Название: Mortal Kombat X, Часы: 3.4
+ID: 320240, Название: We Happy Few, Часы: 6.4
+ID: 322330, Название: Don't Starve Together, Часы: 32.3
+ID: 331670, Название: The Jackbox Party Pack, Часы: 3.4
+ID: 339340, Название: Resident Evil 0, Часы: 2.8
+ID: 341800, Название: Keep Talking and Nobody Explodes, Часы: 5.5
+ID: 350640, Название: Sherlock Holmes: The Devil's Daughter, Часы: 12.9
+ID: 356040, Название: Sheltered, Часы: 47.5
+ID: 361420, Название: ASTRONEER, Часы: 0.0
+ID: 381210, Название: Dead by Daylight, Часы: 877.3
+ID: 387290, Название: Ori and the Blind Forest: Definitive Edition, Часы: 0.0
+ID: 391540, Название: Undertale, Часы: 2.6
+ID: 397460, Название: The Jackbox Party Pack 2, Часы: 3.5
+ID: 405640, Название: Pony Island, Часы: 0.0
+ID: 413150, Название: Stardew Valley, Часы: 20.2
+ID: 414700, Название: Outlast 2, Часы: 13.1
+ID: 418370, Название: Resident Evil 7 Biohazard, Часы: 6.6
+ID: 424840, Название: Little Nightmares, Часы: 0.0
+ID: 428690, Название: Youtubers Life, Часы: 4.7
+ID: 431960, Название: Wallpaper Engine, Часы: 31.5
+ID: 433340, Название: Slime Rancher, Часы: 5.5
+ID: 434170, Название: The Jackbox Party Pack 3, Часы: 9.8
+ID: 437920, Название: Tricky Towers, Часы: 8.4
+ID: 438740, Название: Friday the 13th: The Game, Часы: 13.9
+ID: 442070, Название: Drawful 2, Часы: 0.0
+ID: 448510, Название: Overcooked, Часы: 2.0
+ID: 457140, Название: Oxygen Not Included, Часы: 12.9
+ID: 460960, Название: The Deed: Dynasty, Часы: 0.0
+ID: 462960, Название: Caveman World: Mountains of Unga Boonga, Часы: 0.0
+ID: 470220, Название: UNO, Часы: 4.9
+ID: 477160, Название: Human Fall Flat, Часы: 6.1
+ID: 501300, Название: What Remains of Edith Finch, Часы: 3.0
+ID: 561770, Название: Just Ignore Them, Часы: 0.0
+ID: 582660, Название: Black Desert, Часы: 0.0
+ID: 588430, Название: Fallout Shelter, Часы: 0.5
+ID: 594650, Название: Hunt: Showdown 1896, Часы: 8.3
+ID: 599140, Название: Graveyard Keeper, Часы: 0.0
+ID: 606150, Название: Moonlighter, Часы: 0.0
+ID: 610180, Название: The Jackbox Party Pack 4, Часы: 14.2
+ID: 613100, Название: House Flipper, Часы: 0.0
+ID: 617670, Название: Zup! S, Часы: 17.1
+ID: 622650, Название: Bendy and the Ink Machine, Часы: 0.6
+ID: 629520, Название: Soundpad, Часы: 81.4
+ID: 641990, Название: The Escapists 2, Часы: 6.7
+ID: 646270, Название: 60 Parsecs!, Часы: 9.9
+ID: 648800, Название: Raft, Часы: 158.0
+ID: 712730, Название: SIMULACRA, Часы: 9.1
+ID: 728880, Название: Overcooked! 2, Часы: 34.8
+ID: 736260, Название: Baba Is You, Часы: 4.2
+ID: 738520, Название: Breathedge, Часы: 0.0
+ID: 739630, Название: Phasmophobia, Часы: 222.4
+ID: 770720, Название: Hunt: Showdown 1896 (Test Server), Часы: 0.0
+ID: 774461, Название: The Jackbox Party Pack 5, Часы: 5.2
+ID: 850320, Название: PHOGS!, Часы: 14.6
+ID: 883710, Название: Resident Evil 2, Часы: 49.0
+ID: 939850, Название: The Dark Pictures Anthology: Man of Medan, Часы: 3.0
+ID: 945360, Название: Among Us, Часы: 89.5
+ID: 952060, Название: Resident Evil 3, Часы: 7.7
+ID: 952070, Название: RESIDENT EVIL RESISTANCE, Часы: 9.0
+ID: 960910, Название: Heavy Rain, Часы: 16.7
+ID: 960990, Название: Beyond: Two Souls, Часы: 26.6
+ID: 976310, Название: Mortal Kombat 11, Часы: 5.6
+ID: 978460, Название: Emily is Away <3, Часы: 0.0
+ID: 983970, Название: Haven, Часы: 3.3
+ID: 1002300, Название: Fear & Hunger, Часы: 0.0
+ID: 1003480, Название: Fireboy & Watergirl: Elements, Часы: 0.0
+ID: 1005300, Название: The Jackbox Party Pack 6, Часы: 29.7
+ID: 1012880, Название: 60 Seconds! Reatomized, Часы: 6.7
+ID: 1035510, Название: Ultimate Zombie Defense, Часы: 0.0
+ID: 1057090, Название: Ori and the Will of the Wisps, Часы: 3.0
+ID: 1057750, Название: The Suicide of Rachel Foster, Часы: 1.9
+ID: 1063660, Название: Bendy and the Dark Revival, Часы: 0.0
+ID: 1071870, Название: Biped, Часы: 7.6
+ID: 1082430, Название: Before Your Eyes, Часы: 5.6
+ID: 1116580, Название: Shady Part of Me, Часы: 8.9
+ID: 1117090, Название: Purple Place - Classic Games, Часы: 3.5
+ID: 1135690, Название: Unpacking, Часы: 9.3
+ID: 1140270, Название: Monster Prom 2: Monster Camp, Часы: 7.7
+ID: 1174180, Название: Red Dead Redemption 2, Часы: 43.4
+ID: 1180660, Название: Tell Me Why, Часы: 0.0
+ID: 1184160, Название: RUSSIAPHOBIA, Часы: 2.4
+ID: 1196590, Название: Resident Evil Village, Часы: 5.5
+ID: 1206060, Название: Happy Game, Часы: 2.4
+ID: 1211630, Название: The Jackbox Party Pack 7, Часы: 9.6
+ID: 1218900, Название: Zup! Z, Часы: 16.9
+ID: 1222140, Название: Detroit: Become Human, Часы: 85.9
+ID: 1222670, Название: The Sims™ 4, Часы: 70.2
+ID: 1236990, Название: Boris and the Dark Survival, Часы: 0.0
+ID: 1265920, Название: Life is Strange Remastered, Часы: 20.6
+ID: 1265930, Название: Life is Strange: Before the Storm Remastered, Часы: 7.2
+ID: 1289380, Название: Sheltered 2, Часы: 1.1
+ID: 1301720, Название: Escape Room - The Sick Colleague, Часы: 2.1
+ID: 1304930, Название: The Outlast Trials, Часы: 221.4
+ID: 1307580, Название: TOEM, Часы: 0.3
+ID: 1313140, Название: Cult of the Lamb, Часы: 13.0
+ID: 1326470, Название: Sons Of The Forest, Часы: 15.5
+ID: 1392820, Название: Milk inside a bag of milk inside a bag of milk, Часы: 0.3
+ID: 1422450, Название: Deadlock, Часы: 0.1
+ID: 1424330, Название: Wobbledogs, Часы: 26.4
+ID: 1426210, Название: It Takes Two, Часы: 6.3
+ID: 1433340, Название: Happy's Humble Burger Farm, Часы: 13.2
+ID: 1449690, Название: The Walking Dead: The Telltale Definitive Series, Часы: 0.0
+ID: 1450830, Название: At Dead Of Night, Часы: 8.7
+ID: 1451940, Название: NEEDY STREAMER OVERLOAD, Часы: 22.3
+ID: 1509960, Название: PICO PARK, Часы: 0.9
+ID: 1552350, Название: The Jackbox Party Pack 8, Часы: 1.0
+ID: 1553910, Название: My Friend Stalin, Часы: 0.3
+ID: 1555110, Название: Chasing Tails -A Promise in the Snow-, Часы: 15.7
+ID: 1568590, Название: Goose Goose Duck, Часы: 24.2
+ID: 1577120, Название: The Quarry, Часы: 1.5
+ID: 1583850, Название: Asleep: Act 1, Часы: 0.0
+ID: 1604000, Название: Milk outside a bag of milk outside a bag of milk, Часы: 3.9
+ID: 1634080, Название: Nocturnal, Часы: 0.0
+ID: 1635450, Название: Longvinter, Часы: 14.7
+ID: 1657630, Название: Slime Rancher 2, Часы: 4.7
+ID: 1677740, Название: Stumble Guys, Часы: 0.5
+ID: 1703340, Название: The Stanley Parable: Ultra Deluxe, Часы: 12.7
+ID: 1742930, Название: Looking Up I See Only A Ceiling, Часы: 1.8
+ID: 1773180, Название: The Matriarch, Часы: 5.4
+ID: 1781350, Название: Fireboy & Watergirl: Fairy Tales, Часы: 0.0
+ID: 1807080, Название: Ghost Exile, Часы: 1.5
+ID: 1850960, Название: The Jackbox Party Pack 9, Часы: 2.8
+ID: 1866180, Название: Hooked on You: A Dead by Daylight Dating Sim™, Часы: 0.0
+ID: 1902960, Название: Lost Records: Bloom & Rage, Часы: 17.2
+ID: 1943950, Название: Escape the Backrooms, Часы: 1.8
+ID: 1966720, Название: Lethal Company, Часы: 38.9
+ID: 1971870, Название: Mortal Kombat 1, Часы: 11.1
+ID: 1977530, Название: One-armed cook, Часы: 0.8
+ID: 2050650, Название: Resident Evil 4, Часы: 12.0
+ID: 2056340, Название: Room of Depression, Часы: 1.7
+ID: 2060160, Название: The Farmer Was Replaced, Часы: 2.8
+ID: 2085360, Название: Insomnia: Theater in the Head, Часы: 11.7
+ID: 2139020, Название: What the Fog, Часы: 1.9
+ID: 2149010, Название: Little Nightmares Enhanced Edition, Часы: 0.0
+ID: 2160470, Название: Zup! Y, Часы: 16.9
+ID: 2171440, Название: Fear & Hunger 2: Termina, Часы: 0.0
+ID: 2206460, Название: Furry Killer, Часы: 29.2
+ID: 2216830, Название: The Jackbox Party Pack 10, Часы: 0.0
+ID: 2218460, Название: Bunny Guys!, Часы: 0.0
+ID: 2296990, Название: We Were Here Expeditions: The FriendShip, Часы: 3.0
+ID: 2303350, Название: Sticky Business, Часы: 8.8
+ID: 2410490, Название: Sneak Out, Часы: 0.8
+ID: 2456740, Название: inZOI, Часы: 24.4
+ID: 2497900, Название: DON'T SCREAM, Часы: 1.5
+ID: 2512930, Название: Guardians of the Sanctree, Часы: 17.6
+ID: 2527500, Название: MiSide, Часы: 0.5
+ID: 2551020, Название: One-armed robber, Часы: 0.8
+ID: 2567870, Название: Chained Together, Часы: 1.8
+ID: 2592160, Название: Dispatch, Часы: 33.8
+ID: 2653790, Название: The Exit 8, Часы: 1.9
+ID: 2692990, Название: DON'T SCREAM TOGETHER, Часы: 3.1
+ID: 2709570, Название: Supermarket Together, Часы: 5.8
+ID: 2736840, Название: The August Before, Часы: 3.0
+ID: 2742710, Название: Cozy Cleaner , Часы: 2.1
+ID: 2744010, Название: Urban Jungle, Часы: 6.3
+ID: 2796010, Название: Party Club, Часы: 0.0
+ID: 2826180, Название: ChillPulse, Часы: 131.7
+ID: 2827200, Название: MIMESIS, Часы: 10.5
+ID: 2828500, Название: The Jackbox Megapicker, Часы: 15.0
+ID: 2835570, Название: Buckshot Roulette, Часы: 12.7
+ID: 2835590, Название: 8AM, Часы: 0.0
+ID: 2869860, Название: Monster Prom 4: Monster Con, Часы: 3.9
+ID: 2880730, Название: AI2U: With You 'Til The End, Часы: 3.7
+ID: 2881650, Название: Content Warning, Часы: 10.2
+ID: 2908050, Название: Catto's Post Office, Часы: 1.6
+ID: 2909110, Название: Nuclear Nightmare, Часы: 0.0
+ID: 2914150, Название: Yunyun Syndrome!? Rhythm Psychosis, Часы: 23.2
+ID: 2990600, Название: Fireside Feelings, Часы: 0.1
+ID: 3017580, Название: Paragnosia, Часы: 0.0
+ID: 3097560, Название: Liar's Bar, Часы: 0.3
+ID: 3144640, Название: Skoof Simulator, Часы: 21.3
+ID: 3164500, Название: Schedule I, Часы: 24.7
+ID: 3180070, Название: No, I'm not a Human, Часы: 3.8
+ID: 3240220, Название: Grand Theft Auto V Enhanced, Часы: 0.6
+ID: 3241660, Название: R.E.P.O., Часы: 66.5
+ID: 3259470, Название: Papa's Pizzeria Deluxe, Часы: 6.9
+ID: 3293260, Название: Waterpark Simulator, Часы: 53.9
+ID: 3364070, Название: The Jackbox Party Pack 11, Часы: 0.9
+ID: 3400930, Название: Guilty as Sock!, Часы: 10.2
+ID: 3402530, Название: Screen Cat, Часы: 125.5
+ID: 3419430, Название: Bongo Cat, Часы: 200.4
+ID: 3431040, Название: That's not my Neighbor, Часы: 0.1
+ID: 3453910, Название: Happy's Humble Burger Cult, Часы: 11.7
+ID: 3527290, Название: PEAK, Часы: 57.2
+ID: 3764200, Название: Resident Evil Requiem, Часы: 25.2
+ID: 3880190, Название: Coconut Simulator 2, Часы: 0.0
+ID: 3949040, Название: RV There Yet?, Часы: 0.6
+ID: 3981100, Название: Leaf it Alone, Часы: 2.0
+ID: 3989810, Название: FUTA FUCKS FEMBOYS, Часы: 1.8
+ID: 4015530, Название: MyVoiceZoo, Часы: 1.0
+ID: 4249100, Название: Resident Evil (1996), Часы: 0.0
+ID: 4249110, Название: Resident Evil 2 (1998), Часы: 0.0
+ID: 4249120, Название: Resident Evil 3 Nemesis (1999), Часы: 0.0
+ID: 4401160, Название: Fireboy & Watergirl and Friends, Часы: 0.0
+ID: 4508340, Название: NTE: Neverness to Everness, Часы: 0.5
+ID: 5084260, Название: Fireboy & Watergirl 1: The Forest Temple, Часы: 1.8
+ID: 5085370, Название: Fireboy & Watergirl 2: The Light Temple, Часы: 0.4
+ID: 5085500, Название: Fireboy & Watergirl 3: The Ice Temple, Часы: 0.0
+ID: 5085510, Название: Fireboy & Watergirl 4: The Crystal Temple, Часы: 0.0
